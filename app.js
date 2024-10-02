@@ -63,6 +63,11 @@ document.querySelectorAll('.image-container img').forEach(image =>{
     window.open(
     "https://github.com/AnuragGhosh0208/employeemanagementsystem", "_blank");
 }
+function Project3() {
+  window.open(
+  "https://github.com/AnuragGhosh0208/automatic-light-control-and-visitor-counter", "_blank");
+}
+
 
 function insta(){
   window.open("https://www.instagram.com/_anuraag_g/" ,"_blank");
